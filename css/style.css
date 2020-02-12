@@ -176,7 +176,7 @@ header{
 
   /* Cards! */
   .card {
-    flex-basis: 225px; 
+    flex-basis: 250px; 
     align-items: baseline;
   }
 
@@ -235,11 +235,6 @@ header{
       animation: none;
     }
   }
-
-/*CHECKLIST
-1. PRINT PAGE
-3. CHECK WHATS IN THE BODY???*/
-
 
 
 
